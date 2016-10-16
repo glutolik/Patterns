@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475522444 source:c:\users\Анатолий\desktop\singletone\main.cpp
+	<iostream>
+	"Singletone.h"
+
+1475522484 c:\users\Анатолий\desktop\singletone\singletone.h
+
