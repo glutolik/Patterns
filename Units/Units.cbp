@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Oficer.h" />
 		<Unit filename="Units.cpp" />
 		<Unit filename="Units.h" />
 		<Unit filename="main.cpp" />

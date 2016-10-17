@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1476647009 source:c:\users\Анатолий\desktop\units\units.cpp
+
+1476735239 source:c:\users\Анатолий\desktop\units\main.cpp
+	<iostream>
+	"Units.h"
+	"Oficer.h"
+
+1476649934 c:\users\Анатолий\desktop\units\units.h
+	<iostream>
+	<memory>
+
+1476735717 c:\users\Анатолий\desktop\units\oficer.h
+
